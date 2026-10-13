@@ -72,6 +72,15 @@ ladb-mobility-economy/
 
 *Nota: el archivo CSV se genera durante la ejecución del notebook. Los archivos originales de datos deben estar disponibles para reproducir el análisis.*
 
+## Cómo abrir el archivo en Google Colab
+
+Haz click en el siguiente link:
+https://colab.research.google.com/drive/1Qs1gV_Yh10x8Y-y3rf7XjNBXfyZLGWld?usp=sharing
+
+O:
+1. Abre el archivo .ipynb en GitHub.
+2. Haz click en **Open in Colab**
+
 ## 🚀 Cómo ejecutar el proyecto
 
 ### 1. Instalar las dependencias
