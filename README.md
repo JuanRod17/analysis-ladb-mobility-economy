@@ -75,6 +75,7 @@ ladb-mobility-economy/
 ## Cómo abrir el archivo en Google Colab
 
 Haz click en el siguiente link:
+
 https://colab.research.google.com/drive/1Qs1gV_Yh10x8Y-y3rf7XjNBXfyZLGWld?usp=sharing
 
 O:
